@@ -158,3 +158,4 @@ If you encounter issues:
 
 - Built with [Pyrogram](https://docs.pyrogram.org/)
 - AI powered by [OpenRouter](https://openrouter.ai/)
+- Subro [Telegram](https://t.me/subroz)

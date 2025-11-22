@@ -1,0 +1,3 @@
+pyrotgfork
+requests
+python-dotenv
